@@ -1,0 +1,13 @@
+.TAP_STATE {
+  background-color: white;
+  border-color: white;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.TAP_ACTIVE {
+  background-color: lightblue;
+  border-color: lightblue;
+}
